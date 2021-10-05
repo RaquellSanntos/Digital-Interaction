@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59758605374",
+    "project_id": "digita-interaction",
+    "storage_bucket": "digita-interaction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59758605374:android:49a01a776afc7a69ca8d6f",
+        "android_client_info": {
+          "package_name": "com.dev4s.digitalinteraction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59758605374-su5c3267g45t2dr7f8jbvd9ig9nknpe8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev4s.digitalinteraction",
+            "certificate_hash": "5903c0a99f9e7217ad816ea702a024abde6c8581"
+          }
+        },
+        {
+          "client_id": "59758605374-1dgpdj02q6mkmhc65vl5ooheu3l0r30h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMYHv9BnF0mw0ojFf8oIKszCXQqIHj6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59758605374-1dgpdj02q6mkmhc65vl5ooheu3l0r30h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
